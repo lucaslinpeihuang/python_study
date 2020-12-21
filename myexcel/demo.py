@@ -2,6 +2,3 @@
 
 
 
-print(good)
-
-
