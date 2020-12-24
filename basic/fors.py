@@ -8,7 +8,7 @@
     
 # break 结束整个循环
 # continue 结束本次循环
-print('----------')
+
 for i in range(10):
     if i != 6:
         print(i)
