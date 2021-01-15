@@ -1,6 +1,9 @@
 # -*- coding: utf-8 -*-
 
-def addGood():
+def a():
     print('hello')
     
-    
+a()
+
+
+a()
